@@ -73,3 +73,9 @@ img.image{
 .ingredientsUL > li{
   list-style: initial ;
 }
+
+
+
+ul.ingredientsUL > li {
+    font-weight: bold !important;
+}
